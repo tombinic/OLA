@@ -1,6 +1,6 @@
-# 🎓 Online Learning Applications
+# 🎓 Online Learning Campaign
 
-Welcome to the repository for the **Online Learning Applications**, developed during the academic year 2024/2025. This project focuses on designing **online learning algorithms** to optimize a marketing campaign, including pricing strategies and bidding in auctions.
+Welcome to the repository for the **Online Learning Campaign**, developed during the academic year 2024/2025. This project focuses on designing **online learning algorithms** to optimize a marketing campaign, including pricing strategies and bidding in auctions.
 
 🧑‍🤝‍🧑Thanks to [Andrea Bertogalli](https://github.com/andberto), [Niccolò Balestrieri](https://github.com/NiccoloBalestrieri) and [Francesco Cavalieri](https://github.com/KavaTappi)
 ## 📝 Overview
@@ -63,6 +63,6 @@ The project was conducted in the following environments:
 - Analysis of cumulative regret, profits, and algorithm performance through extensive experimentation.
 
 ---
-This README file provides an overview of the Online Learning Applications project conducted in the homonym course, A.Y. 2023-2024, under the supervision of Prof. Castiglioni Matteo and Genalti Gianmarco. The project was carried out by Niccolò Balestrieri, Andrea Bertogalli, and Nicolò Tombini from Politecnico di Milano, Italy.
+This README file provides an overview of the **Online Learning Campaign** project conducted in the **Online Learning Applications** course, A.Y. 2023-2024, under the supervision of Prof. Castiglioni Matteo and Genalti Gianmarco. The project was carried out by Niccolò Balestrieri, Andrea Bertogalli, and Nicolò Tombini from Politecnico di Milano, Italy.
 
 For more detailed information, please refer to the project documentation and source code provided in this repository.
